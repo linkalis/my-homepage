@@ -3,9 +3,10 @@ body {
 }
 
 h2 {
-  color: #ffcc00;
+  color: #7A0019;
 }
 
 #contact {
-  color: #cccccc;
+  background-color: #FFDE7A;
+  padding: 2%;
 }
