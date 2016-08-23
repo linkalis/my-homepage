@@ -3,7 +3,12 @@ body {
 }
 
 h2 {
+<<<<<<< HEAD
   color: #7A0019;
+=======
+  color: #ffcc00;
+  background-color: #cccccc;
+>>>>>>> master
 }
 
 #contact {
